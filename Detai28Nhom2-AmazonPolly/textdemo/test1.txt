@@ -1,0 +1,1 @@
+Amazon Polly is a lifelike text-to-speech service that allows you to create applications that speak and develop entirely new categories of speech-equipped products
