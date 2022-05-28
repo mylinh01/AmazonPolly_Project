@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+	<title>Login</title>
+	<script src="http://cdn.pubnub.com/pubnub.min.js"></script>
+	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.1.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="chat.css">
+	<link rel="shortcut icon" type="image/png" href="https://responsivevoice.org/wp-content/uploads/2020/01/speech-icon-2797263_1280-930x930.png"/>
+	<style>
+        body {
+        background-image: url('https://cutewallpaper.org/21/world-of-darkness-backgrounds/world-map-background-dark-M3Sixty.jpg');
+        }
+    </style>
+</head>
+<body>
+	<h1 class="welcome"> Welcome to Chat Room TTS</h1>
+	<input id="userName" type="text" placeholder="Place enter your name here" class="userNameBar" />
+	<button id="joinButton" class="btn btn-primary joinButton" onclick="joinRoom()">Join</button>
+
+	<script type="text/javascript">
+		function joinRoom() { debugger;
+			var uuid = $('#userName').val();
+			window.location = 'chat.html?uuid=' + uuid; 
+		}
+	</script>
+</body>
+</html>

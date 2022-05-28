@@ -125,7 +125,7 @@
         if (!text) {
             return;
         }
-        var sourceLanguageCode = document.getElementById("voices").value;
+        var sourceLanguageCode = document.getElementById("languages").value;
         doSynthesize(text, sourceLanguageCode);
     }
 

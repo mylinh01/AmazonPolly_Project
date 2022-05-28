@@ -1,1 +1,5 @@
+과일을 빨리 익히기 위해 화학 물질이 사용되기도 한다. 그러나 화학 물질로 익힌 과일은 겉은 익었지만 속이 잘 익지 않은 경우가 많다.
+
+生活リズムが変わってからは早朝に起きるのが辛い時期がありました。ただ、環境が変わったからといって、一度やると決めたことを簡単に投げ出してはよくないと自分に言い聞かせたので。
+
 Amazon Polly is a lifelike text-to-speech service that allows you to create applications that speak and develop entirely new categories of speech-equipped products
