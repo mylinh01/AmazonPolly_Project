@@ -34,11 +34,18 @@ Ta dùng lệnh: npm install aws-sdk --save để cài đặt
 
 Chọn khu vực và add Accesskey và Secretkey đã tạo ở bước Users vào AWS-SDK
 
-Tiếp đến thực hiện viết các hàm javascript để thực hiện xử lý các chức năng:
-- Thêm tệp
-- Đọc nội dung tệp
-- Xác định dạng dữ liệu đầu vào: văn bản thuần túy hoặc SSML
-- Chuyển thành giọng nói
+## Các chức năng 
+- Điều chỉnh âm sắc của giọng nói
+- Điều chỉnh độ lớn của giọng nói
+- Đọc vắn bản thuần túy
+![image](https://user-images.githubusercontent.com/91240116/219866053-a252b91d-e82c-4a4b-b421-ab9afe49e741.png)
+- Đọc các thẻ SSML 
+![image](https://user-images.githubusercontent.com/91240116/219866098-3c7aea60-7b1a-4259-bed4-8b4cf7c5762a.png)
+- upload tệp để đọc
+![image](https://user-images.githubusercontent.com/91240116/219866107-1c5bc64d-f031-4939-a295-2ff728f1b122.png)
+
+
+
 
 
 
