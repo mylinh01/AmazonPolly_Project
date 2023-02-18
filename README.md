@@ -47,7 +47,7 @@ Chọn khu vực và add Accesskey và Secretkey đã tạo ở bước Users v�
 ![image](https://user-images.githubusercontent.com/91240116/219866229-510cc012-cba2-4430-9a63-b3c4a9444bd6.png)
 ## Thêm giọng nói cho chatbox
 ![image](https://user-images.githubusercontent.com/91240116/219866237-cfe749e7-b21e-4233-b7e4-463cedb15d5b.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/91240116/219866242-3b2715e6-3fe1-49dc-b998-691571aeac22.png)
 
 
 
