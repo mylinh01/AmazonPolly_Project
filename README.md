@@ -38,11 +38,21 @@ Chọn khu vực và add Accesskey và Secretkey đã tạo ở bước Users v�
 - Điều chỉnh âm sắc của giọng nói
 - Điều chỉnh độ lớn của giọng nói
 - Đọc vắn bản thuần túy
-![image](https://user-images.githubusercontent.com/91240116/219866053-a252b91d-e82c-4a4b-b421-ab9afe49e741.png)
+![image](https://user-images.githubusercontent.com/91240116/219866151-8e7b9e73-e96b-42fc-9a54-b97dc42cb319.png)
 - Đọc các thẻ SSML 
 ![image](https://user-images.githubusercontent.com/91240116/219866098-3c7aea60-7b1a-4259-bed4-8b4cf7c5762a.png)
-- upload tệp để đọc
-![image](https://user-images.githubusercontent.com/91240116/219866107-1c5bc64d-f031-4939-a295-2ff728f1b122.png)
+- Upload tệp để đọc
+![image](https://user-images.githubusercontent.com/91240116/219866176-223ed3c5-680d-47f5-a843-0581803a3c1c.png)
+## Thêm giọng nói cho trang WordPress
+![image](https://user-images.githubusercontent.com/91240116/219866229-510cc012-cba2-4430-9a63-b3c4a9444bd6.png)
+## Thêm giọng nói cho chatbox
+![image](https://user-images.githubusercontent.com/91240116/219866237-cfe749e7-b21e-4233-b7e4-463cedb15d5b.png)
+![Uploading image.png…]()
+
+
+
+
+
 
 
 
